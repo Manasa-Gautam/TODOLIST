@@ -3,6 +3,6 @@ The to-do list is a web application built using HTML, CSS, and JavaScript. The d
 The application provides functionality for adding and deleting tasks. To add a new task, there is an input box where the user can enter the task description, and an "Add" button to submit the task. Clicking the "Add" button triggers the addition of the task to the list dynamically. The user can also delete a task by clicking the corresponding delete button associated with each task. The combination of HTML, CSS, and JavaScript enables the application to create an interactive and responsive user interface. HTML structures the content and layout of the page, CSS styles the visual elements and applies the blue gradient background, while JavaScript provides the logic for adding, deleting, and marking tasks as completed.
 
 Overall, the to-do list application is a user-friendly and functional tool that helps users organize their tasks, manage their progress, and enhance productivity. The blue gradient color scheme adds a visually pleasing touch to the application, making the task management experience more enjoyable.
-![Screenshot (382)](https://github.com/Manasa-Gautam/TODOLIST/assets/107456171/f8e1fd7e-4061-4d77-b7f9-8495e1bd6c7a)
 ![Screenshot (379)](https://github.com/Manasa-Gautam/TODOLIST/assets/107456171/b7396415-0e8f-41d4-a64e-d681b8a65595)
+![Screenshot (382)](https://github.com/Manasa-Gautam/TODOLIST/assets/107456171/f8e1fd7e-4061-4d77-b7f9-8495e1bd6c7a)
 
